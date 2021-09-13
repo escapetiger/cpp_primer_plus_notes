@@ -1,0 +1,23 @@
+Stack::Stack(int ss)
+{
+}
+
+Stack::Stack(const Stack & st)
+{
+}
+
+bool Stack::push(const Type & item)
+{
+    return true;
+}
+
+bool Stack::pop(Type & item)
+{
+    return true;
+}
+
+Stack & Stack::operator=(const Stack & st)
+{
+    return Stack();
+}
+

@@ -1,0 +1,18 @@
+ArrayTP::ArrayTP()
+{
+}
+
+ArrayTP::ArrayTP(const T & v)
+{
+}
+
+T & ArrayTP::operator[](int i)
+{
+    return T();
+}
+
+T & ArrayTP::operator[](int i)
+{
+    return T();
+}
+

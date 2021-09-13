@@ -1,0 +1,8 @@
+// file2.cpp -- contains functions called in file1.cpp
+#include <iostream>
+#include <cmath>
+#include "coordin.h" // stucture templates, function prototypes
+using namespace std;
+
+// convert rectangular to polar coordinates
+p

@@ -1,0 +1,28 @@
+Stack::Stack()
+{
+}
+
+bool Stack::isempty()
+{
+    return true;
+}
+
+bool Stack::isfull()
+{
+    return true;
+}
+
+bool Stack::push(const Type & item)
+{
+    return true;
+}
+
+bool Stack::pop(Type & item)
+{
+    return true;
+}
+
+Stack::~Stack()
+{
+}
+
